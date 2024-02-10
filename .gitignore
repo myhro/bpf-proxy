@@ -1,0 +1,4 @@
+*.o
+*.skel.h
+proxy
+vmlinux.h
